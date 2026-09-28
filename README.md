@@ -4,6 +4,12 @@
 
 ![](/project.png)
 
+## Inputs
+
+- **outerwidth** (number)
+- **innerwidth** (undefined)
+
+
 
 
  
